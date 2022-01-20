@@ -1,1 +1,2 @@
 # ts-sandbox
+typescriptのsandbox
